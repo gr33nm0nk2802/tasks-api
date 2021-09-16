@@ -1,0 +1,17 @@
+{
+  "name": "tasks-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^13.0.1",
+    "nodemon": "^2.0.12"
+  }
+}
